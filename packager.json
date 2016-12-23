@@ -1,0 +1,16 @@
+{
+	"applicationName":"TechVistaApp",
+	"applicationId":"com.domain.TechVistaApp",
+	"versionString":"1.0",
+	"iconName":"resources/icons/Icon.png",
+	"inputPath":"F:/xampp/htdocs/TechVistaApp",
+	"outputPath":"F:/xampp/htdocs/TechVistaApp/build",
+	"configuration": "Release",
+        "platform":"Android",
+	"sdkPath":"C:/Users/zonaib/AppData/Local/Android/sdk",
+	"androidAPILevel":"16",
+  "permissions":[
+	"INTERNET",
+	"ACCESS_NETWORK_STATE"
+  ]
+}
